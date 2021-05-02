@@ -5,4 +5,4 @@ Credit :
 1. tutorial random di forum tanya jawab stackoverflow.
 2. vim fandom.
 3. trial&error.
-4. LIDG (Layanan Instalasi Distro GNU/Linux.
+4. LIDG (Layanan Instalasi Distro GNU/Linux).
