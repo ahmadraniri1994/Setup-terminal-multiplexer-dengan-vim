@@ -22,7 +22,7 @@
 :map wl :vertical new<CR>
 
 "jendela vim kanan dan kiri setinggi layar 
-:map w= :vertical rightbelow new<CR>
+:map w= :vertical botright new<CR>
 :map w- :vertical topleft new<CR>
 
 "jendela vim atas dan bawah
