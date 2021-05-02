@@ -1,5 +1,5 @@
 "Update setup terminal multiplexer dengan vim
-"Credit : tutorial random di forum tanya jawab stackoverflow, vim fandom, trial&error, LIDG (Layanan Instalasi Distro GNU/Linux.
+"Credit : tutorial random di forum tanya jawab stackoverflow, vim fandom, trial&error, LIDG (Layanan Instalasi Distro GNU/Linux).
 "selamat menikmati....
 
 "terminal atas dan bawah
