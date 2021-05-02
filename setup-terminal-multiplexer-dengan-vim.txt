@@ -1,0 +1,37 @@
+"Update setup terminal multiplexer dengan vim
+"Credit : tutorial random di forum tanya jawab stackoverflow, vim fandom, trial&error, LIDG (Layanan Instalasi Distro GNU/Linux.
+"selamat menikmati....
+
+"terminal atas dan bawah
+:map ta :term<CR>
+:map ts :leftabove term<CR>
+:map tb :rightbelow term<CR>
+
+"terminal atas selebar layar
+:map tk :topleft term<CR>
+
+"terminal bawah selebar layar
+:map tj :botright term<CR>
+
+"terminal kanan dan kiri
+:map tr :vertical rightbelow term<CR>
+:map tl :vert terminal<CR>
+
+"jendela vim kanan dan kiri
+:map wr :rightbelow vertical new<CR>
+:map wl :vertical new<CR>
+
+"jendela vim kanan dan kiri setinggi layar 
+:map w= :vertical rightbelow new<CR>
+:map w- :vertical topleft new<CR>
+
+"jendela vim atas dan bawah
+:map wa :leftabove new<CR> 
+:map wb :belowright new<CR>
+
+"jenedela vim atas selebar layar
+:map wk :topleft new<CR>
+
+"jendela vim bawah selebar layar
+:map wj :botright new<CR>
+
